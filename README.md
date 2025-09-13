@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I’m Yogeshajay Teeda
+🎓 B.Tech Graduate in Computer Science and Engineering (AI & ML)
+💡 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development
 
-<!--
-**teedayogeshajay/teedayogeshajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Projects:
 
-Here are some ideas to get you started:
+🤖 AI-Based Detecting Deception in Online Interactions – Leveraging AI to analyze behavioral patterns in online communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌌 Machine Learning for Classification of Stars and Galaxies – Applied ML models for astronomical data classification.
+
+🛠️ Skills & Technologies:
+
+Programming: Python, SQL, JavaScript
+
+Web Development: HTML, CSS, React.js
+
+Data: Machine Learning, Data Analytics
+
+📌 Always eager to learn, build, and contribute to open-source projects!
